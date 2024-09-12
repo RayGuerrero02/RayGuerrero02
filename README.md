@@ -1,8 +1,9 @@
 <h1>Hi, I'm Ray! <br/><a href="https://github.com/RayGuerrero02/Dev_Work/">Programmer</a> and <a href="https://www.linkedin.com/in/raymond-guerrero">Cybersecurity Professional</a>.</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
+
 - <b>Google Clone</b>
-  - [Google Home Page Project](https://github.com/RayGuerrero02/Dev_Work/tree/master/Google%20Clone))
+  - [Google Home Page Project](https://github.com/RayGuerrero02/Dev_Work/tree/master/Google%20Clone)
 - <b>Youtube Landing Page Clone</b>
   - [Personal Landing Page Project](https://github.com/RayGuerrero02/Dev_Work/tree/master/Youtube%20Project)
 - <b>HTML Practice(Flexbox, Grid, Website, Buttons)</b>
