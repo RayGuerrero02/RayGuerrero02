@@ -7,6 +7,7 @@
   - [View the live project here](https://frabjous-youtiao-da60fd.netlify.app/)
 - <b>Youtube Landing Page Clone</b>
   - [Personal Landing Page Project](https://github.com/RayGuerrero02/Dev_Work/tree/master/Youtube%20Project)
+  - [View the live project here](https://aquamarine-meringue-8a3afb.netlify.app/)
 - <b>HTML Practice(Flexbox, Grid, Website, Buttons)</b>
   - [HTML](https://github.com/RayGuerrero02/Dev_Work/tree/master/html) 
 - <b>CSS</b>
