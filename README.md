@@ -4,6 +4,7 @@
 
 - <b>Google Clone</b>
   - [Google Home Page Project](https://github.com/RayGuerrero02/Dev_Work/tree/master/Google%20Clone)
+  - [View the live project here](https://frabjous-youtiao-da60fd.netlify.app/)
 - <b>Youtube Landing Page Clone</b>
   - [Personal Landing Page Project](https://github.com/RayGuerrero02/Dev_Work/tree/master/Youtube%20Project)
 - <b>HTML Practice(Flexbox, Grid, Website, Buttons)</b>
