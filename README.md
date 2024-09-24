@@ -1,7 +1,10 @@
-<h1>Hi, I'm Ray! <br/><a href="https://github.com/RayGuerrero02/Dev_Work/">Programmer</a> and <a href="https://www.linkedin.com/in/raymond-guerrero">Cybersecurity Professional</a>.</h1>
+<h1>Hi, I'm Ray! <br/><a href="https://www.linkedin.com/in/raymond-guerrero">Technology Mangement Professional</a> and <a href="https://github.com/RayGuerrero02/">Sofware Developer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Rock, Paper, Scissors</b>
+  - [Rock, Paper, Scissors Project](https://github.com/RayGuerrero02/Dev_Work/tree/master/Rock%2C%20Paper%2C%20Scissor)
+  - [Play the Game here!](https://cosmic-buttercream-8a6f3f.netlify.app/)
 - <b>Google Clone</b>
   - [Google Home Page Project](https://github.com/RayGuerrero02/Dev_Work/tree/master/Google%20Clone)
   - [View the live project here](https://frabjous-youtiao-da60fd.netlify.app/)
