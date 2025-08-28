@@ -1,4 +1,7 @@
-<h1>Hi, I'm Ray! <br/><a href="https://www.linkedin.com/in/raymond-guerrero">Technology Mangement Professional</a> and <a href="https://github.com/RayGuerrero02/">Sofware Developer</a></h1>
+<h1>Hi, I'm Ray! 🛡️<br/>
+<a href="https://www.linkedin.com/in/raymond-guerrero">Cybersecurity Strategist</a> and 
+<a href="https://github.com/RayGuerrero02/">GRC Engineer in Progress</a>
+</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
