@@ -1,18 +1,14 @@
 <h1>Hi, I'm Ray! 🛡️<br/>
 <a href="https://www.linkedin.com/in/raymond-guerrero">Cybersecurity Strategist</a> and 
-<a href="https://github.com/RayGuerrero02/">GRC Engineer in Progress</a>
+<a href="https://github.com/RayGuerrero02/">GRC Engineer</a>
 </h1>
 
 <h2>🌱 Things I'm Currently Working On:</h2>
 <ul>
   <li>Making compliance less painful</li>
   <li>Building hands-on labs for GRC automation</li>
-  <li>Prepping for my M.S. Cybersecurity journey at Bellevue</li>
-</ul>
-
-<h2>📚 Certification in Progress:</h2>
-<ul>
-  <li>CISSP</li>
+  <li>M.S. Cybersecurity at Bellevue University</li>
+  <li>Building Info Sec Programs</li>
 </ul>
 
 <h2>👨‍💻 Software Development Projects:</h2>
